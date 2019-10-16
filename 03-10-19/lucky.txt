@@ -1,0 +1,10 @@
+mstp apssdc
+classes are running
+welcome
+to
+python
+
+classes are running
+welcome
+to
+python
